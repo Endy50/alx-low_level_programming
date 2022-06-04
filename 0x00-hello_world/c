@@ -730,10 +730,8 @@ extern int __overflow (FILE *, int);
 
 
 
-
-# 9 "main.c"
+# 8 "main.c"
 int main (void)
 {
-  printf ("This string says %c.\n", M);
-  return (0);
+    return (0);
 }

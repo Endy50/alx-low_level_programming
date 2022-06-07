@@ -1,0 +1,1 @@
+Generates any random number and determines its value relative to zero

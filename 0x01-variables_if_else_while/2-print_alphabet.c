@@ -8,12 +8,12 @@
 int main(void)
 {
 	int p;
+
 	p = 97;
 
-	do {
+	for (p = 97; p <= 122; p++)
+	{
 		putchar(p);
-		putchar('\n');
-		p++;
-	} while (p <= 122);
+	}
 	return (0);
 }

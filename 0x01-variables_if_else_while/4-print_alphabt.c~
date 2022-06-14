@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+/**
+ *main - Entry point
+ *
+ *Return: 0
+ */
+int main(void)
+{
+	int p;
+
+	p = 97;
+
+	for (p = 97; p <= 122; p++)
+	{
+		if (p = 101 || p = 113)
+			continue;
+		putchar(p);
+	}
+	putchar('\n');
+	return (0);
+}

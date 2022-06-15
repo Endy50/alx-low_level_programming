@@ -11,10 +11,4 @@ void reset_to_98(int *n);
 
 void swap_int(int *a, int *b);
 
-int _islower(int c);
-
-int _isalpha(int c);
-
-int print_sign(int n);
-
-int _abs(int);
+int _strlen(char *s);

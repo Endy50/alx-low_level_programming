@@ -10,6 +10,7 @@ int main(void)
 	int i;
 
 	char hex[] = "0123456789abcdef";
+
 	i = 0;
 	while (i <= 15)
 	{

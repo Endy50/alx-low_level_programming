@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+/**
+ *main - Entry point
+ *
+ *Return: 0
+ */
+int main(void)
+{
+	int i;
+
+	for (i = 00; i <= 89; i++)
+	{
+		putchar(i + '0');
+		if(i == 89)
+		{
+			break;
+		}
+		putchar(',');
+		putchar(' ');
+	}
+	putchar('\n');
+	return (0);
+}

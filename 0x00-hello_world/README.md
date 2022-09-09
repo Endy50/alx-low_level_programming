@@ -3,3 +3,4 @@ The compiler compiles a source code but will not link it
 The assembler generates an assembly code
 This compiles into our pref name
 assembly with index format
+write string without conventional output function 
